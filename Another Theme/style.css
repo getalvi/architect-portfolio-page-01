@@ -1,0 +1,70 @@
+#home{
+    
+    background-image: url(image/bro.png); 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+.name{
+     
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Play', sans-serif;
+}
+.sub{
+    color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Play', sans-serif;
+    
+}
+ /* fromrow --------------------------*/
+ nav{
+    position: inherit;
+ }
+.nav{      
+    padding-top: 20%;
+    padding-bottom: 20%;
+    
+}
+nav ul{
+    list-style-type: none ;     
+}
+nav ul li a{
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Play', sans-serif;    
+    transition: 0.50s;
+}
+
+/*---------------- this is jump navbar -------------------*/
+html{
+    scroll-behavior: smooth;
+}
+
+#portfolio{
+    padding-bottom: 50%;
+  
+}
+#education {
+    padding-bottom: 50%;
+    
+}
+#contact{
+    padding-bottom: 50%;
+    background-color: rgb(13, 49, 49);
+   
+}
+
+/*-------------Portfolio Part--------------*/
+
+.ph{
+
+}
